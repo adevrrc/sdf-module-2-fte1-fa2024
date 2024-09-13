@@ -1,4 +1,4 @@
-print(1 + 1)
+print(1 + 1.4)
 print(10 % 5)
 
 age = 26
@@ -20,3 +20,4 @@ brothers_age = age - 9
 print(brothers_age)
 
 # String Concatenation
+print("My age is " + str(age) + ".")
